@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Another line of code */
+
 body{
     background-image: url('../img/bg-tablet-pattern.svg');
     background-repeat: no-repeat;
